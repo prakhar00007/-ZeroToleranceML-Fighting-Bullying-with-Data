@@ -39,7 +39,3 @@
 - _The model achieves 76% accuracy on the test set._
 - _Additional tuning could improve performance further._
 
-## **Future Work** 
-- _Try different model architectures._
-- _Tune hyperparameters like layers sizes, regularization, etc._
-- _Get more data._
